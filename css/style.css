@@ -25,9 +25,6 @@ body{
     background-repeat: no-repeat;
     background-position: top right 20%;
 }
-button{
-    outline: none;
-}
 .container{
     width: 95%;
     max-width: 1140px;
