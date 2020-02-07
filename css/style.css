@@ -28,9 +28,6 @@ body{
 button{
     outline: none;
 }
-a {
-    outline:none !important;
-}
 .container{
     width: 95%;
     max-width: 1140px;
